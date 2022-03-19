@@ -1,0 +1,60 @@
+
+html{
+  font-size:62.5%;
+  box-sizing: border-box;
+  
+}
+.box {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px
+  }
+.medio{
+  background-color: rgb(255, 255, 255);
+  padding: 60px;
+}
+h1{
+  font-size: 40px;
+  color: rgb(5, 62, 136);
+  
+}
+p{
+  font-size: 19px;
+  color: rgb(143, 143, 143);
+ 
+}
+.final{
+  background-color: rgb(255, 255, 255);
+  
+  padding: 100px;
+  display: flex;
+}
+.final div{
+
+margin: 10px;
+padding: 50px;
+border-style: groove;
+background-color: rgb(255, 255, 255);
+border-radius: 5px;
+}
+.final h1{
+  font-size: 5px;
+  
+}
+.final div p{
+  font-size: 15px;
+ text-align:justify;
+}  
+.final h1{
+  font-size: 20px;
+}
+.img1{
+  background-color: rgba(239, 248, 255, 0.986);
+  border-radius: 5px;
+  margin: 4px;
+  padding: px;
+  
+}
+ 

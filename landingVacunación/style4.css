@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+.e h1, p{
+   left: 250px;
+    margin: 0px;
+    position: relative;
+    top: 100px;
+  }
+  .e h1{
+    color:rgb(0, 54, 155)
+  }
+  .e p{
+  color:#9c9c9c;
+  text-align: right;  
+  left: 250px;
+
+  }
+
+  .dos{
+   display: flex;
+   
+  }
+  .imagen1{
+      position: relative;
+      top: 70px;
+     left: 250px;
+      
+  }
+  .contacto{
+      
+      position: relative;
+      top: 100px;
+      
+     
+  }
+  .contactod{
+    position: relative;
+    top: -200px;
+   
+
+}
+  .contactof{
+    position: relative;
+    top: -130px;
+   
+
+}
+
+  .contacto p{
+      text-align: justify;
+      width: 150px; 
+      height: 150px; 
+      
+  }
+
+  .boton{
+    padding: 0.5rem 2rem;
+    background-color: rgb(0, 51, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    
+  }
+.contacto4{
+  display: flex;
+}
+footer{
+  
+ 
+ font-size: 15px;
+  padding: 30px;
+  background-color: rgb(239, 245, 255);
+  color: rgb(0, 35, 90);
+ 
+ 
+}
+.a1{
+ 
+  text-align: center;
+ position: relative;
+ top: -100px;
+}
+.b2{
+ 
+  text-align:right;
+ position: relative;
+ top: -175px;
+ left: -200px;
+}
